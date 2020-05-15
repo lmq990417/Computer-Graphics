@@ -1,1 +1,6 @@
 # Computer-Graphics
+计算机图形项目
+title：OpenGL绘制三维庄园
+在使用OpenGL自带函数的基础上加入了一些计算机图形的典型算法
+如DDA直线算法、Bresenham画圆算法、多边形扫描填充算法、Bezier曲线绘制算法等
+因课程需要算法中都传入了三维坐标，绘制二维时，删去z坐标即可
